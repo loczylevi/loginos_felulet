@@ -1,0 +1,14 @@
+.doboz{
+    border-radius: 20px;
+}
+body{
+    background-color: darkcyan;
+    position: absolute;
+  top: 50%;
+  width: 100%;
+}
+
+.c{
+    text-decoration: none;
+    color: black;
+}
